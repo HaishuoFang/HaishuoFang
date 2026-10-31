@@ -10,13 +10,14 @@ I build **reliable and verifiable LLM agents** through reinforcement learning an
 
 - **[ProReviewer](https://github.com/UKPLab/arxiv2026-ProReviewer)** — An agent for scientific peer review that investigates papers, tracks evidence in a structured review log, and verifies claims before judging. The project includes an SFT + RL training pipeline and step-by-step review replays. [Watch a run](https://ukplab.github.io/arxiv2026-ProReviewer/) · [Paper](https://arxiv.org/abs/2606.13349)
 - **[InferAct](https://github.com/UKPLab/emnlp2025-inferact)** — Detecting and correcting LLM agent actions that diverge from user intent **before execution**. EMNLP 2025. [Paper](https://aclanthology.org/2025.emnlp-main.12/)
-- **[Harbor — FinanceAgent adapter](https://github.com/harbor-framework/harbor/pull/267)** — I contributed 50 financial-research tasks over SEC filings, with an LLM-as-a-judge grader, to Harbor's agent evaluation infrastructure.
+- **[harbor — FinanceAgent adapter](https://github.com/harbor-framework/harbor/pull/267)** — I contributed 50 financial-research tasks over SEC filings, with an LLM-as-a-judge grader, to Harbor's agent evaluation infrastructure.
 
 ### 🛠️ More open-source work
 
+- **[arxiv2md](https://github.com/timf34/arxiv2md)** — Converts arXiv papers into Markdown for better LLM input format.
 - **[CARE](https://github.com/UKPLab/CARE)** — A collaborative AI-assisted reading platform with 2,000+ users. I designed and integrated its LLM-as-a-judge grading pipeline.
 - **[UKP-SQuARE](https://github.com/UKP-SQuARE/square-core)** — A platform for question-answering and multi-agent QA research. [ACL 2023 Demo paper](https://aclanthology.org/2023.acl-demo.55/)
-- **[arxiv2md](https://github.com/timf34/arxiv2md)** — Converts arXiv papers into Markdown.
+
 
 ### 📄 Selected publications
 
