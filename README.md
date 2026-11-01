@@ -1,6 +1,6 @@
 ### Hi, I'm Haishuo Fang 👋
 
-PhD researcher at [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/), TU Darmstadt, advised by Iryna Gurevych. Expected graduation: 2027.
+PhD researcher at [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/), TU Darmstadt, advised by Iryna Gurevych.
 
 I build **reliable and verifiable LLM agents** through reinforcement learning and evidence-grounded evaluation. My work spans scientific peer review, preemptive detection of misaligned actions, and agent evaluation infrastructure.
 
